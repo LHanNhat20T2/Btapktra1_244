@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BTcuoiki</string>
+    <string name="login">LOGIN</string>
+    <string name="txtuserlogin">Nhập Email</string>
+    <string name="txtpwlogin">*****************</string>
+    <string name="cbremember">Remember me</string>
+    <string name="recoverpw">Forgot password?</string>
+    <string name="btnlogin">Login</string>
+    <string name="testview">Don\'t have an account?</string>
+    <!--    Sign Up -->
+</resources>
